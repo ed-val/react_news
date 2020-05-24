@@ -39,14 +39,14 @@ class NotFound extends Component {
         </div>
         <div className="col s12 m12 l4">
           <div className="center promo promo-example">
-            <i style={{ fontSize: "90px", color: '#2196f3'}} className="material-icons ">aspect_ratio</i>
+            <i style={{ fontSize: "90px", color: '#2196f3'}} className="material-icons ">devices</i>
             <p className="promo-caption">Simple, yet elegant</p>
             <p className="light center">Use this web application, at anytime in any device. Yes, it also supports mobile screens, so you can watch any articles on any screen you have available</p>
           </div>
         </div>
         <div className="col s12 m12 l4">
           <div className="center promo promo-example">
-            <i style={{ fontSize: "90px", color: '#2196f3'}} className="material-icons ">insert_chart</i>
+            <i style={{ fontSize: "90px", color: '#2196f3'}} className="material-icons ">library_books</i>
             <p className="promo-caption">All articles in just one place</p>
             <p className="light center">We've worked effortlessly so you dont have to look around somewhere else for missing details inside articles, or news you just wouldn't miss.</p>
           </div>
