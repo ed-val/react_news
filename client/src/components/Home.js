@@ -99,7 +99,7 @@ class Home extends Component {
             <p>{this.props.errorMessage}</p>
           </div>
           <div onClick={() => this.props.resetError()} className="modal-footer">
-            <a href="#!" className="modal-close waves-effect waves-green btn-flat">Ok</a>
+            <a href="#!" className="modal-close waves-effect waves-green btn-flat">AGREED</a>
           </div>
         </div>
 
